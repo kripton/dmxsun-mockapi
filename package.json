@@ -1,0 +1,23 @@
+{
+  "name": "dmxsun-mockapi",
+  "version": "1.0.0",
+  "description": "A mock API for OpenLightingProject/rp2040-dongle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kripton/dmxsun-mockapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kripton/dmxsun-mockapi/issues"
+  },
+  "homepage": "https://github.com/kripton/dmxsun-mockapi#readme",
+  "dependencies": {
+    "couch64": "^1.0.2",
+    "snappyjs": "^0.6.1"
+  }
+}
